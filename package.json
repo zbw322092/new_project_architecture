@@ -1,0 +1,18 @@
+{
+  "name": "new_project_architecture",
+  "version": "1.0.0",
+  "description": "new project architecture based on express, gulp, webpack and babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bowen Zhong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {
+    "babel-register": "^6.22.0",
+    "chalk": "^1.1.3"
+  }
+}
