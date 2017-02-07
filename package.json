@@ -9,12 +9,16 @@
   "author": "Bowen Zhong",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.14.1",
+    "lodash": "^4.17.4"
   },
   "devDependencies": {
     "babel-core": "^6.22.1",
+    "babel-plugin-transform-class-properties": "^6.22.0",
     "babel-preset-es2015": "^6.22.0",
     "babel-register": "^6.22.0",
-    "chalk": "^1.1.3"
+    "chalk": "^1.1.3",
+    "portscanner": "^2.1.1",
+    "webpack": "^1.14.0"
   }
 }
